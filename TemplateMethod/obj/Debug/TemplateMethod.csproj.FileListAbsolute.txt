@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

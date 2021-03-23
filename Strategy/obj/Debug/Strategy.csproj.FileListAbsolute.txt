@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

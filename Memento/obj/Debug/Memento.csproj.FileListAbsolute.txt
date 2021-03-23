@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Memento\obj\Debug\Memento.pdb

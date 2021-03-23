@@ -1,0 +1,7 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

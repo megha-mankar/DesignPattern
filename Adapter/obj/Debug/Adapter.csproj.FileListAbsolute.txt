@@ -1,0 +1,7 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

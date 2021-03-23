@@ -1,0 +1,7 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

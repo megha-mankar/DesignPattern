@@ -1,0 +1,7 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

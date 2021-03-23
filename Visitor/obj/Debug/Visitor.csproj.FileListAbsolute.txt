@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

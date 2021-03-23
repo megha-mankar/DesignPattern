@@ -1,0 +1,7 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Observer\obj\Debug\Observer.pdb

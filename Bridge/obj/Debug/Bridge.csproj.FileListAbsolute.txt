@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

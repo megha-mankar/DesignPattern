@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\bin\Debug\State.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\bin\Debug\State.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\obj\Debug\State.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\State\obj\Debug\State.pdb

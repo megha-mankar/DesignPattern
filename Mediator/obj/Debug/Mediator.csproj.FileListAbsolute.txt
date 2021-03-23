@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

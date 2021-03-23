@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

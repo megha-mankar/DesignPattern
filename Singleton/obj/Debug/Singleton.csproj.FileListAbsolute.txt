@@ -1,0 +1,14 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+D:\Study_\DesignPattern-20200608T134840Z-001\DesignPattern\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

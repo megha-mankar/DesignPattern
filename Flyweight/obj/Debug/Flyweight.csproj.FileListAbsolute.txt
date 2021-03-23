@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

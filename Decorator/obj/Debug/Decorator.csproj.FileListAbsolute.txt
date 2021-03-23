@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

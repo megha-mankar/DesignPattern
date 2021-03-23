@@ -1,0 +1,6 @@
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\obj\Debug\Composite.exe
+C:\Tavisca_Client\Demo\DesignPattern\DesignPatterns\Composite\obj\Debug\Composite.pdb
